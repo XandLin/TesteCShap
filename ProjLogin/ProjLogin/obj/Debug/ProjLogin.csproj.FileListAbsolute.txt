@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\bin\Debug\ProjLogin.exe.config
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\bin\Debug\ProjLogin.exe
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\bin\Debug\ProjLogin.pdb
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Form1.resources
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Form2.resources
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.Properties.Resources.resources
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.exe
+C:\Users\pc\source\repos\ProjLogin\ProjLogin\obj\Debug\ProjLogin.pdb
