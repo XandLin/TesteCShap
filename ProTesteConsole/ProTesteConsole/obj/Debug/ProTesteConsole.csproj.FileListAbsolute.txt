@@ -1,0 +1,7 @@
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\bin\Debug\ProTesteConsole.exe.config
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\bin\Debug\ProTesteConsole.exe
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\bin\Debug\ProTesteConsole.pdb
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\obj\Debug\ProTesteConsole.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\obj\Debug\ProTesteConsole.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\obj\Debug\ProTesteConsole.exe
+C:\Users\pc\source\repos\ProTesteConsole\ProTesteConsole\obj\Debug\ProTesteConsole.pdb

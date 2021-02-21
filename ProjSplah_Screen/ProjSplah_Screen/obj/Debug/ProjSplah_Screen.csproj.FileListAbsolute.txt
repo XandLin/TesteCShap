@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\bin\Debug\ProjSplah_Screen.exe.config
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\bin\Debug\ProjSplah_Screen.exe
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\bin\Debug\ProjSplah_Screen.pdb
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.AboutBox1.resources
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.Form1.resources
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.Properties.Resources.resources
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.exe
+C:\Users\pc\source\repos\ProjSplah_Screen\ProjSplah_Screen\obj\Debug\ProjSplah_Screen.pdb
