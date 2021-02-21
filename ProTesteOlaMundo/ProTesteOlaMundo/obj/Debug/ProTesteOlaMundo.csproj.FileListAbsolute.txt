@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\bin\Debug\ProTesteOlaMundo.exe.config
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\bin\Debug\ProTesteOlaMundo.exe
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\bin\Debug\ProTesteOlaMundo.pdb
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.Form1.resources
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.Properties.Resources.resources
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.exe
+C:\Users\pc\source\repos\ProTesteOlaMundo\ProTesteOlaMundo\obj\Debug\ProTesteOlaMundo.pdb
