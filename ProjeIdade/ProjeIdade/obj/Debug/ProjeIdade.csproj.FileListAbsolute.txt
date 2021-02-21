@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\bin\Debug\ProjeIdade.exe.config
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\bin\Debug\ProjeIdade.exe
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\bin\Debug\ProjeIdade.pdb
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.Form1.resources
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.Properties.Resources.resources
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.exe
+C:\Users\pc\source\repos\ProjeIdade\ProjeIdade\obj\Debug\ProjeIdade.pdb
