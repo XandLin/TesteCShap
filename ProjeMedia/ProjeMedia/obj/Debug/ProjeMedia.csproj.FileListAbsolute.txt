@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\bin\Debug\ProjeMedia.exe.config
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\bin\Debug\ProjeMedia.exe
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\bin\Debug\ProjeMedia.pdb
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.csprojAssemblyReference.cache
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.Form1.resources
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.Properties.Resources.resources
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.exe
+C:\Users\pc\source\repos\ProjeMedia\ProjeMedia\obj\Debug\ProjeMedia.pdb
